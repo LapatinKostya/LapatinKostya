@@ -1,5 +1,4 @@
 ## Hi, my name is Konstantin Lapatin
-I'm a frontend developer.
 
 
 ### My tech stack:
